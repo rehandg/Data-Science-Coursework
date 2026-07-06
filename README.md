@@ -1,4 +1,4 @@
-# Data Science Learning Journey
+
 
 This repository documents my progress while studying Data Science fundamentals through structured coursework and practical assignments.
 
